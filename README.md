@@ -5,3 +5,5 @@
 2. Folder histogram_for_keyword contains source code of BoW histogram for YouTube video keywords.
 
 3. The raw text data of titles and keywords, and tfrecord files for text features will be uploaded on Google cloud. We are doing about this. Will update soon.
+
+Please cite the paper "Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text, Zhe Wang at al., CVPR Workshop, 2017 ", when using this dataset.
